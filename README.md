@@ -137,7 +137,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Feedback and Issues
 
-If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/yourusername/thai_date_extractor).
+If you encounter any issues or have suggestions for improvements, please open an issue on the [GitHub repository](https://github.com/devmas-co-th/thai_date_extractor).
 
 ---
 
