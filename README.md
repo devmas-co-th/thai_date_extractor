@@ -141,4 +141,4 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 ---
 
-Happy coding! 🎉🎉
+🎉🎉 Happy coding! 🎉🎉
